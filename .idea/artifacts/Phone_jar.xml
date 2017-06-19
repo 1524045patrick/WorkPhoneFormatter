@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Phone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phone_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Phone.jar">
+        <element id="module-output" name="Phone" />
+      </element>
+      <element id="library" level="module" name="libphonenumber-8.5.1.jar" module-name="Phone" />
+      <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="Phone" />
+      <element id="library" level="module" name="ucanaccess-4.0.2.jar" module-name="Phone" />
+      <element id="library" level="module" name="jackcess-2.1.6.jar" module-name="Phone" />
+      <element id="library" level="module" name="commons-lang-2.6.jar" module-name="Phone" />
+      <element id="library" level="module" name="hsqldb.jar" module-name="Phone" />
+    </root>
+  </artifact>
+</component>

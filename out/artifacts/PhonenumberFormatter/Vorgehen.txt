@@ -1,0 +1,13 @@
+1. TelefonNummern formatieren auswählen und Verknüpfung erstellen
+2. Verknüpfung an den gewünschten Ort verschieben
+3. Doppelklick auf die Verknüpfung, um das Programm zu starten
+
+4. Groß und Kleinschreibung beachten!!
+4.1 Im offenen Programm:
+	
+	5. Tabelle eingeben
+	6. ISO Spaltennamen eingeben
+	7. ID Spaltennamen eingeben
+	8. Geduldig warten
+	9. Erfolgsmeldung abwarten und danach in der Datenbank prüfen
+

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libphonenumber-8.5.1.jar commons-logging-1.1.1.jar ucanacc
+ ess-4.0.2.jar jackcess-2.1.6.jar commons-lang-2.6.jar hsqldb.jar
+Main-Class: de.siemens.FormatPhoneNumbers
+

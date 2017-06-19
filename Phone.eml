@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/PhonenumberFormatter"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="commons-lang-2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/commons-lang-2.6.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/commons-logging-1.1.1.jar!/"/>
+	</lib>
+	<lib name="hsqldb.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/hsqldb.jar!/"/>
+	</lib>
+	<lib name="jackcess-2.1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/jackcess-2.1.6.jar!/"/>
+	</lib>
+	<lib name="libphonenumber-8.5.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/libphonenumber-8.5.1.jar!/"/>
+	</lib>
+	<lib name="ucanaccess-4.0.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/src/de/siemens/lib/ucanaccess-4.0.2.jar!/"/>
+	</lib>
+</component>
