@@ -51,6 +51,9 @@ class AccessConnector
         this.phonenumberColumn = columnName;
         try {
             this.query = this.connection.createStatement();
+            /**
+             * TODO Tabellennamen / Spaltennamen Variabel machen!
+             */
             this.resultSet = query.executeQuery("SELECT xxx_ish2017_leaddaten.phonenumber " +
                     "FROM xxx_ish2017_leaddaten");
             appendItems(this.phoneNumbers, this.resultSet);
